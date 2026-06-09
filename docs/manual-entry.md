@@ -54,11 +54,14 @@ Edit `data/sources.json` and add a new item to `sources`:
   "id": "new-source-id",
   "name": "媒體名稱",
   "categoryId": "hk-local",
-  "homeUrl": "https://example.com",
+  "homeUrl": "https://view-link.cx/example-slug",
   "language": ["zh-Hant"],
   "active": true
 }
 ```
+
+### Usage of view-link.cx for homeUrl
+All `homeUrl` values for sources must use the `view-link.cx` URL wrapper / redirection service (e.g., `https://view-link.cx/nnqvZVa7R75`). This ensures consistency, privacy, and bypasses direct access limitations for the media outlet's homepage.
 
 Choose one existing `categoryId`:
 
@@ -75,7 +78,7 @@ Before pushing:
 2. Every article `sourceId` exists.
 3. Every article `categoryId` matches its source.
 4. Every URL starts with `https://`.
-5. `updatedAt` at the file top is changed.
+5. The top-level `updatedAt` field must be kept synchronized and identical across all three JSON data files (`feed.json`, `sources.json`, and `articles.json`) whenever edits are made.
 6. `node tools/validate.mjs` passes.
 
 ## Publishing

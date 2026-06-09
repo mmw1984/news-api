@@ -3,10 +3,19 @@
 Base URL after GitHub Pages is enabled:
 
 ```text
-https://mmw1984.github.io/news-api
+https://mmw1984.github.io/news-api/
 ```
 
 All endpoints return static JSON. There is no authentication and no server-side filtering.
+
+## General Constraints
+
+- **schemaVersion**: Must be exactly `"1.0.0"`.
+- **Language**:
+  - For sources (`sources.json`), the `language` field is an array of non-empty strings representing languages supported by the source (e.g. `["zh-Hant"]` or `["en"]`).
+  - For articles (`articles.json`), the `language` field is a single non-empty string representing the language of the article (e.g. `"zh-Hant"`), and it must match one of the language codes supported by its source.
+- **Date Format (ISO 8601)**: All date-time fields (`updatedAt` and `publishedAt`) must follow the ISO 8601 format with an explicit time offset or UTC designator (e.g. `2026-06-09T00:00:00+08:00` or `2026-06-09T00:00:00Z`).
+
 
 ## `GET /data/sources.json`
 
