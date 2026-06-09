@@ -4,6 +4,21 @@
   "defaultLocale": "zh-Hant-HK",
   "articles": [
     {
+      "id": "manual-reuters-1717915200000",
+      "sourceId": "reuters",
+      "categoryId": "international-mainstream",
+      "title": "Global Markets Update: June 9, 2026",
+      "summary": "Reuters reports on the latest movements in global markets as trade tensions ease in the Arctic region.",
+      "content": "Global markets showed resilience today following news of stabilizing trade relations. Reuters has confirmed that major indices rose in early trading.",
+      "url": "https://www.reuters.com/markets/2026-06-09/",
+      "imageUrl": null,
+      "language": "en",
+      "tags": ["markets", "reuters"],
+      "publishedAt": "2026-06-09T07:10:00Z",
+      "updatedAt": "2026-06-09T15:25:00+08:00",
+      "editor": "poke-manual-fix"
+    },
+    {
       "id": "the-chaser-news-2026-06-08-arctic",
       "sourceId": "the-chaser-news",
       "categoryId": "hk-overseas",
