@@ -1,5 +1,5 @@
-import * as fs from 'fs';
-import * as path from 'path';
+import * as fs from "node:fs";
+import * as path from "node:path";
 
 // Improved script with 50+ real, verified articles from June 8-9, 2026.
 // Added Telegraph publishing logic using Telegraph API.
@@ -61,8 +61,8 @@ async function createTelegraphPage(article: { title: string, content: string, ur
                 return_content: false
             })
         });
-        const result = await response.json() as any;
-        if (result.ok) {
+        const result = (await response.json()) as { ok: boolean, result?: { url: string } };
+        if (result.ok && result.result) {
             return result.result.url;
         }
         return null;
@@ -162,7 +162,7 @@ const VERIFIED_DATA = [
 
 export async function automation() {
     let allArticles: Article[] = [];
-    const dataPath = path.join(process.cwd(), 'data/articles.json');
+    const dataPath = path.join("/workspace/user", 'data/articles.json');
     let existingData: { articles: Article[] } = { articles: [] };
     
     if (fs.existsSync(dataPath)) {
@@ -175,7 +175,7 @@ export async function automation() {
 
     for (const feed of VERIFIED_DATA) {
         for (const item of feed.items) {
-            const articleId = feed.sourceId + \"-\" + Buffer.from(item.url).toString('base64').substring(0, 10).replace(/\//g, '_');
+            const articleId = feed.sourceId + "-" + item.title.substring(0, 10);
             const existingArticle = existingData.articles.find(a => a.id === articleId);
             
             let telegraphUrl = existingArticle?.telegraphUrl;
@@ -210,13 +210,14 @@ export async function automation() {
     }
 
     const data = {
-        schemaVersion: \"1.0.0\",
+        schemaVersion: "1.0.0",
         updatedAt: new Date().toISOString(),
-        defaultLocale: \"zh-Hant-HK\",
+        defaultLocale: "zh-Hant-HK",
         articles: allArticles
     };
 
-    if (!fs.existsSync('data')) fs.mkdirSync('data', { recursive: true });
+    const dir = path.dirname(dataPath);
+    if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(dataPath, JSON.stringify(data, null, 2));
     
     return `Successfully updated 50 articles. New Telegraph URLs generated where missing.`;
