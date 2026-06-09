@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "1.0.0",
+  "updatedAt": "2026-06-09T00:00:00+08:00",
+  "defaultLocale": "zh-Hant-HK",
+  "articles": [
+    {
+      "id": "sample-2026-06-09-editor-note",
+      "sourceId": "the-chaser-news",
+      "categoryId": "hk-overseas",
+      "title": "範例新聞標題：請以正式新聞標題取代",
+      "summary": "這是一篇手動錄入範例，用來示範標題、簡介、內容摘要、原文連結和時間欄位的格式。正式上線前可以刪除此項。",
+      "content": "手動錄入時請避免複製完整受版權保護文章。這個欄位適合放編輯整理的短內容、重點摘錄或公開新聞稿摘要。",
+      "url": "https://view-link.cx/nnqvZVa7R75",
+      "imageUrl": null,
+      "language": "zh-Hant",
+      "tags": ["範例", "手動錄入"],
+      "publishedAt": "2026-06-09T00:00:00+08:00",
+      "updatedAt": "2026-06-09T00:00:00+08:00",
+      "editor": "mmw1984"
+    }
+  ]
+}

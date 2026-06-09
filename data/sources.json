@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0.0",
+  "updatedAt": "2026-06-09T00:00:00+08:00",
+  "owner": "mmw1984",
+  "repository": "news-api",
+  "defaultLocale": "zh-Hant-HK",
+  "categories": [
+    {
+      "id": "hk-overseas",
+      "name": "香港人海外媒體",
+      "description": "由香港人或面向香港讀者的海外媒體。"
+    },
+    {
+      "id": "hk-local",
+      "name": "香港本地媒體（時事 / 法律 / 科技）",
+      "description": "香港本地時事、法庭、社會與科技新聞媒體。"
+    },
+    {
+      "id": "international-mainstream",
+      "name": "海外 / 國際主流媒體",
+      "description": "國際通訊社與主流新聞機構。"
+    },
+    {
+      "id": "international-tech",
+      "name": "國際科技媒體（綜合 / 專門）",
+      "description": "國際科技、消費電子、平台與產業媒體。"
+    }
+  ],
+  "sources": [
+    { "id": "the-chaser-news", "name": "The Chaser News 追新聞", "categoryId": "hk-overseas", "homeUrl": "https://view-link.cx/nnqvZVa7R75", "language": ["zh-Hant"], "active": true },
+    { "id": "points-media", "name": "Points Media 棱角媒體", "categoryId": "hk-overseas", "homeUrl": "https://view-link.cx/R4BzQZefBgv", "language": ["zh-Hant"], "active": true },
+    { "id": "green-bean-media", "name": "Green Bean Media 綠豆", "categoryId": "hk-overseas", "homeUrl": "https://view-link.cx/GDjpgCJLgF8", "language": ["zh-Hant"], "active": true },
+    { "id": "photon-media", "name": "Photon Media 光傳媒", "categoryId": "hk-overseas", "homeUrl": "https://view-link.cx/XbcRf7v75hL", "language": ["zh-Hant"], "active": true },
+    { "id": "flow-hk", "name": "Flow HK 流水", "categoryId": "hk-overseas", "homeUrl": "https://view-link.cx/IXqQIlKpRjI", "language": ["zh-Hant"], "active": true },
+    { "id": "hk-feature", "name": "HK Feature 留白", "categoryId": "hk-overseas", "homeUrl": "https://view-link.cx/95HQMOZ96tI", "language": ["zh-Hant"], "active": true },
+    { "id": "renews", "name": "ReNews", "categoryId": "hk-overseas", "homeUrl": "https://view-link.cx/qTrsPWXPohi", "language": ["zh-Hant"], "active": true },
+
+    { "id": "the-collective-hk", "name": "集誌社 The Collective HK", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/h7GFHKErq3p", "language": ["zh-Hant"], "active": true },
+    { "id": "the-witness", "name": "法庭線 The Witness", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/GfpEOYkfot3", "language": ["zh-Hant"], "active": true },
+    { "id": "channel-c-hk", "name": "Channel C HK", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/DvwfC6Pr3Fr", "language": ["zh-Hant"], "active": true },
+    { "id": "inmediahk", "name": "獨立媒體 inmediahk", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/52rnOfMVi7S", "language": ["zh-Hant"], "active": true },
+    { "id": "unwire-hk", "name": "Unwire HK", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/5ftBiDgmtuR", "language": ["zh-Hant"], "active": true },
+    { "id": "e-zone", "name": "e-zone", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/J0mC3Viekjp", "language": ["zh-Hant"], "active": true },
+    { "id": "pcmarket-pcm", "name": "PCMarket PCM", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/QyNKdJU2ksh", "language": ["zh-Hant"], "active": true },
+    { "id": "techritual", "name": "TechRitual", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/riIeizKYvKx", "language": ["zh-Hant"], "active": true },
+    { "id": "hk01", "name": "香港01", "categoryId": "hk-local", "homeUrl": "https://view-link.cx/KwgByBIVYIy", "language": ["zh-Hant"], "active": true },
+
+    { "id": "bbc-news", "name": "BBC News", "categoryId": "international-mainstream", "homeUrl": "https://view-link.cx/s96xpBNXZW8", "language": ["en", "zh-Hant"], "active": true },
+    { "id": "reuters", "name": "Reuters 路透社", "categoryId": "international-mainstream", "homeUrl": "https://view-link.cx/fcx06qzrnCz", "language": ["en", "zh-Hant"], "active": true },
+    { "id": "associated-press", "name": "Associated Press AP 通訊社", "categoryId": "international-mainstream", "homeUrl": "https://view-link.cx/NKnXr3ebhTN", "language": ["en"], "active": true },
+    { "id": "new-york-times", "name": "The New York Times 紐約時報", "categoryId": "international-mainstream", "homeUrl": "https://view-link.cx/ZNzy93s7BMr", "language": ["en", "zh-Hant"], "active": true },
+    { "id": "the-guardian", "name": "The Guardian 衛報", "categoryId": "international-mainstream", "homeUrl": "https://view-link.cx/bTRHtVy7xyp", "language": ["en"], "active": true },
+    { "id": "bloomberg", "name": "Bloomberg 彭博", "categoryId": "international-mainstream", "homeUrl": "https://view-link.cx/FX8IQRyxprx", "language": ["en", "zh-Hant"], "active": true },
+    { "id": "wall-street-journal", "name": "The Wall Street Journal 牆報", "categoryId": "international-mainstream", "homeUrl": "https://view-link.cx/hlKWGPJ7teZ", "language": ["en", "zh-Hant"], "active": true },
+
+    { "id": "the-verge", "name": "The Verge", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/RBr9PRdbkxn", "language": ["en"], "active": true },
+    { "id": "9to5mac", "name": "9to5Mac (專攻 Apple)", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/D5ImdtM8zPH", "language": ["en"], "active": true },
+    { "id": "macrumors", "name": "MacRumors (專攻 Apple)", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/xbv5fmKpuvj", "language": ["en"], "active": true },
+    { "id": "9to5google", "name": "9to5Google (專攻 Google)", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/B81F2YJnQNH", "language": ["en"], "active": true },
+    { "id": "android-authority", "name": "Android Authority (專攻 Android)", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/Z3W6dMm3fat", "language": ["en"], "active": true },
+    { "id": "android-central", "name": "Android Central (專攻 Android)", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/Ekzkt8jabZL", "language": ["en"], "active": true },
+    { "id": "ars-technica", "name": "Ars Technica", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/07F2M0CrT2k", "language": ["en"], "active": true },
+    { "id": "wired", "name": "Wired", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/k5fKzP6goLI", "language": ["en"], "active": true },
+    { "id": "techcrunch", "name": "TechCrunch", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/Nvx8xkQdvup", "language": ["en"], "active": true },
+    { "id": "engadget", "name": "Engadget", "categoryId": "international-tech", "homeUrl": "https://view-link.cx/zuxqMVSxf2r", "language": ["en", "zh-Hant"], "active": true }
+  ]
+}
