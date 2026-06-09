@@ -61,14 +61,14 @@ if (typeof feedPayload.defaultLocale !== 'string' || feedPayload.defaultLocale.t
 if (!feedPayload.endpoints || typeof feedPayload.endpoints !== 'object') {
   errors.push(`feed.json: missing or invalid endpoints object`);
 } else {
-  if (feedPayload.endpoints.sources !== '/data/sources.json') {
-    errors.push(`feed.json: endpoints.sources must be '/data/sources.json'`);
+  if (feedPayload.endpoints.sources !== 'data/sources.json') {
+    errors.push(`feed.json: endpoints.sources must be 'data/sources.json'`);
   }
-  if (feedPayload.endpoints.articles !== '/data/articles.json') {
-    errors.push(`feed.json: endpoints.articles must be '/data/articles.json'`);
+  if (feedPayload.endpoints.articles !== 'data/articles.json') {
+    errors.push(`feed.json: endpoints.articles must be 'data/articles.json'`);
   }
-  if (feedPayload.endpoints.feed !== '/data/feed.json') {
-    errors.push(`feed.json: endpoints.feed must be '/data/feed.json'`);
+  if (feedPayload.endpoints.feed !== 'data/feed.json') {
+    errors.push(`feed.json: endpoints.feed must be 'data/feed.json'`);
   }
 }
 if (feedPayload.sourcesUrl !== 'data/sources.json') {

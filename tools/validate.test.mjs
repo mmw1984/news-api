@@ -15,9 +15,9 @@ const baseFeed = {
   updatedAt: "2026-06-09T00:00:00+08:00",
   defaultLocale: "zh-Hant-HK",
   endpoints: {
-    sources: "/data/sources.json",
-    articles: "/data/articles.json",
-    feed: "/data/feed.json"
+    sources: "data/sources.json",
+    articles: "data/articles.json",
+    feed: "data/feed.json"
   },
   sourcesUrl: "data/sources.json",
   articlesUrl: "data/articles.json",

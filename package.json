@@ -1,0 +1,10 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "test": "node tools/validate.test.mjs"
+  }
+}

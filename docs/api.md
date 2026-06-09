@@ -3,7 +3,7 @@
 Base URL after GitHub Pages is enabled:
 
 ```text
-https://mmw1984.github.io/news-api/
+https://mmw1984.com/news-api/
 ```
 
 All endpoints return static JSON. There is no authentication and no server-side filtering.
@@ -24,7 +24,7 @@ Returns source categories and media outlets.
 Example:
 
 ```bash
-curl https://mmw1984.github.io/news-api/data/sources.json
+curl https://mmw1984.com/news-api/data/sources.json
 ```
 
 Response shape:
@@ -63,7 +63,7 @@ Returns manually entered news articles.
 Example:
 
 ```bash
-curl https://mmw1984.github.io/news-api/data/articles.json
+curl https://mmw1984.com/news-api/data/articles.json
 ```
 
 Response shape:
@@ -116,6 +116,7 @@ type FeedMetadata = {
 ## App Recommendations
 
 - Cache the last successful `sources.json` and `articles.json` response.
+- Resolve `feed.json` endpoint paths relative to the API base URL. For this project, `data/sources.json` resolves to `https://mmw1984.com/news-api/data/sources.json`.
 - Sort articles by `publishedAt` descending.
 - Filter by `categoryId`, `sourceId`, `language`, and `tags` on the client.
 - Treat missing `imageUrl` as normal.

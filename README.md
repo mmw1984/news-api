@@ -1,6 +1,6 @@
 # HK News API
 
-A small static JSON news API designed to run on GitHub Pages at `https://mmw1984.github.io/news-api/`.
+A small static JSON news API designed to run on GitHub Pages at `https://mmw1984.com/news-api/`.
 
 The repository is intentionally manual-first: editors update JSON files, commit, and GitHub Pages serves the latest media list and article feed without a backend server.
 
@@ -13,9 +13,9 @@ The repository is intentionally manual-first: editors update JSON files, commit,
 When published to GitHub Pages, use:
 
 ```text
-https://mmw1984.github.io/news-api/data/sources.json
-https://mmw1984.github.io/news-api/data/articles.json
-https://mmw1984.github.io/news-api/data/feed.json
+https://mmw1984.com/news-api/data/sources.json
+https://mmw1984.com/news-api/data/articles.json
+https://mmw1984.com/news-api/data/feed.json
 ```
 
 ## Manual Updates
@@ -41,7 +41,9 @@ For repository `mmw1984/news-api`:
 1. Push this folder as the repository root.
 2. In GitHub, open **Settings > Pages**.
 3. Set source to `main` branch and `/ (root)`.
-4. Confirm the public URL is `https://mmw1984.github.io/news-api/`.
+4. Confirm the public URL is `https://mmw1984.com/news-api/`.
+
+The repository also includes a `Validate API data` workflow. It runs `npm test`, which validates JSON shape, source/article relationships, supported languages, URLs, and timestamp consistency.
 
 ## Editor Rules
 
