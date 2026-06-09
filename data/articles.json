@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0.0",
-  "updatedAt": "2026-06-09T07:39:32.875Z",
+  "updatedAt": "2026-06-09T07:46:12.875Z",
   "defaultLocale": "zh-Hant-HK",
   "articles": [
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Instagram profile grid rearrangement rolling out",
       "summary": "Instagram profile grid rearrangement rolling out",
       "url": "https://www.theverge.com/2026/6/8/instagram-profile-grid-rearrange-rollout",
       "publishedAt": "2026-06-08T19:58:42.000Z",
-      "content": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps.",
+      "content": "Instagram is finally delivering the ability to rearrange the posts in your profile grid after a year of testing.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -19,18 +19,18 @@
         "international",
         "instagram"
       ],
-      "updatedAt": "2026-06-09T07:39:32.869Z",
+      "updatedAt": "2026-06-09T07:46:12.869Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Apple parental controls screen time WWDC",
       "summary": "Apple parental controls screen time WWDC",
       "url": "https://www.theverge.com/2026/6/8/apple-parental-controls-screen-time-wwdc",
       "publishedAt": "2026-06-08T21:48:30.000Z",
-      "content": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising. Apple is trying to show the world it's being responsible when it comes to your children with new Screen Time features.",
+      "content": "Apple is introducing new Screen Time features at WWDC to help parents manage their children's device usage more effectively.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -39,36 +39,36 @@
         "apple",
         "wwdc"
       ],
-      "updatedAt": "2026-06-09T07:39:32.869Z",
+      "updatedAt": "2026-06-09T07:46:12.869Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "iOS 27 developer beta first look",
       "summary": "iOS 27 developer beta first look",
       "url": "https://www.theverge.com/2026/6/8/ios-27-developer-beta-first-look",
       "publishedAt": "2026-06-08T21:43:24.000Z",
-      "content": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I've been poking around a bunch of features that aren't about AI and found a lot that I'm happy with.",
+      "content": "A first hands-on look at the new features in iOS 27 beyond just the AI enhancements.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
         "international"
       ],
-      "updatedAt": "2026-06-09T07:39:32.869Z",
+      "updatedAt": "2026-06-09T07:46:12.869Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Apple Safari AI extensions WWDC",
       "summary": "Apple Safari AI extensions WWDC",
       "url": "https://www.theverge.com/2026/6/8/apple-safari-ai-extensions-wwdc",
       "publishedAt": "2026-06-08T18:40:37.000Z",
-      "content": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple.",
+      "content": "Apple aims to bolster Safari's extension ecosystem by leveraging AI to simplify development.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -78,18 +78,18 @@
         "ai",
         "wwdc"
       ],
-      "updatedAt": "2026-06-09T07:39:32.870Z",
+      "updatedAt": "2026-06-09T07:46:12.870Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "tvOS 27 Apple TV missing WWDC",
       "summary": "tvOS 27 Apple TV missing WWDC",
       "url": "https://www.theverge.com/2026/6/8/tvos-27-apple-tv-missing-wwdc",
       "publishedAt": "2026-06-09T01:44:10.000Z",
-      "content": "Every year, Apple's Worldwide Developers Conference gives us a first look what's coming next to the company's many operating systems. But missing from today's keynote was any mention of tvOS.",
+      "content": "Notably absent from the WWDC keynote was any significant mention of updates for tvOS 27.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -98,18 +98,18 @@
         "apple",
         "wwdc"
       ],
-      "updatedAt": "2026-06-09T07:39:32.870Z",
+      "updatedAt": "2026-06-09T07:46:12.870Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Apple child safety toolkit WWDC",
       "summary": "Apple child safety toolkit WWDC",
       "url": "https://www.theverge.com/2026/6/8/apple-child-safety-toolkit-wwdc",
       "publishedAt": "2026-06-08T17:48:08.000Z",
-      "content": "Apple announced an expanded toolkit for parents through its child accounts at WWDC, including a greater ability to customize kids' allotted screen time and the ability to block gory or violent images.",
+      "content": "Expanded toolkit for child accounts including violent image blocking and custom screen time.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -118,36 +118,36 @@
         "apple",
         "wwdc"
       ],
-      "updatedAt": "2026-06-09T07:39:32.870Z",
+      "updatedAt": "2026-06-09T07:46:12.870Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "OpenAI IPO confidential filing",
       "summary": "OpenAI IPO confidential filing",
       "url": "https://www.theverge.com/2026/6/8/openai-ipo-confidential-filing",
       "publishedAt": "2026-06-08T17:38:29.000Z",
-      "content": "OpenAI on Monday announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st.",
+      "content": "OpenAI has reportedly filed for a confidential IPO following Anthropic's lead.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
         "international"
       ],
-      "updatedAt": "2026-06-09T07:39:32.870Z",
+      "updatedAt": "2026-06-09T07:46:12.870Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "WWDC 2026 AI Apple Intelligence Siri",
       "summary": "WWDC 2026 AI Apple Intelligence Siri",
       "url": "https://www.theverge.com/2026/6/8/wwdc-2026-ai-apple-intelligence-siri",
       "publishedAt": "2026-06-08T17:17:38.000Z",
-      "content": "This year's WWDC keynote was all about AI. With all the attention on Apple Intelligence and Siri AI, the company introduced a bunch of cool new features across its updates.",
+      "content": "Apple Intelligence and the new Siri AI are the stars of this year's developer conference.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -158,18 +158,18 @@
         "apple",
         "siri"
       ],
-      "updatedAt": "2026-06-09T07:39:32.871Z",
+      "updatedAt": "2026-06-09T07:46:12.871Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Apple Watch iPad support culling WWDC",
       "summary": "Apple Watch iPad support culling WWDC",
       "url": "https://www.theverge.com/2026/6/8/apple-watch-ipad-support-culling-wwdc",
       "publishedAt": "2026-06-08T20:31:53.000Z",
-      "content": "Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before for watchOS 27 and iPadOS 27.",
+      "content": "Several older generations of iPad and Apple Watch will not support the new OS versions.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -178,18 +178,18 @@
         "apple",
         "wwdc"
       ],
-      "updatedAt": "2026-06-09T07:39:32.871Z",
+      "updatedAt": "2026-06-09T07:46:12.871Z",
       "editor": "poke"
     },
     {
-      "id": "the-verge-https:__ww",
+      "id": "the-verge-aHR0cHM6Ly",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "watchOS 27 announcement Siri AI",
       "summary": "watchOS 27 announcement Siri AI",
       "url": "https://www.theverge.com/2026/6/8/watchos-27-announcement-siri-ai",
       "publishedAt": "2026-06-08T20:31:06.000Z",
-      "content": "Apple just announced watchOS 27, introducing support for Siri AI, a redesigned 'dynamic' app grid, and improvements to health and fitness tracking.",
+      "content": "New watchOS 27 brings Siri AI and a redesigned dynamic app grid to the wrist.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -198,18 +198,18 @@
         "siri",
         "ai"
       ],
-      "updatedAt": "2026-06-09T07:39:32.871Z",
+      "updatedAt": "2026-06-09T07:46:12.871Z",
       "editor": "poke"
     },
     {
-      "id": "unwire-hk-https:__un",
+      "id": "unwire-hk-aHR0cHM6Ly",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
-      "title": "Apple 測試版源碼流出 首度新增摺機專屬欄位 或暗示摺疊 iPhone 將面世",
-      "summary": "Apple 測試版源碼流出 首度新增摺機專屬欄位 或暗示摺疊 iPhone 將面世",
+      "title": "Apple 測試版源碼流出 暗示摺疊 iPhone 將面世",
+      "summary": "Apple 測試版源碼流出 暗示摺疊 iPhone 將面世",
       "url": "https://unwire.hk/2026/06/09/ios27-foldstate-foldable-iphone-ultra/mobile-phone/",
       "publishedAt": "2026-06-09T05:40:18.000Z",
-      "content": "Apple 剛向全球開發者發佈 iOS 27 首個開發者測試版，隨即有技術人員在代碼之中發現「foldState」等欄位，暗示摺疊 iPhone 可能面世。",
+      "content": "iOS 27 測試版代碼中出現 foldState 欄位，預示摺疊機即將到來。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
@@ -218,36 +218,36 @@
         "apple",
         "iphone"
       ],
-      "updatedAt": "2026-06-09T07:39:32.872Z",
+      "updatedAt": "2026-06-09T07:46:12.872Z",
       "editor": "poke"
     },
     {
-      "id": "unwire-hk-https:__un",
+      "id": "unwire-hk-aHR0cHM6Ly",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
-      "title": "鬧鐘無故不響有救 iOS 27 測試版具獨立音量控制",
-      "summary": "鬧鐘無故不響有救 iOS 27 測試版具獨立音量控制",
+      "title": "iOS 27 具獨立音量控制",
+      "summary": "iOS 27 具獨立音量控制",
       "url": "https://unwire.hk/2026/06/09/ios27-sounds-haptics-separate-volume/mobile-phone/",
       "publishedAt": "2026-06-09T05:05:22.000Z",
-      "content": "不少 iPhone 用家都經歷過「鬧鐘無故不響」惡夢。iOS 27 developer beta 1 已加入更細緻音量控制，使用者可分開調校鈴聲、鬧鐘等。",
+      "content": "用戶現在可以獨立調整鬧鐘與鈴聲的音量。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
         "news",
         "hk"
       ],
-      "updatedAt": "2026-06-09T07:39:32.872Z",
+      "updatedAt": "2026-06-09T07:46:12.872Z",
       "editor": "poke"
     },
     {
-      "id": "unwire-hk-https:__un",
+      "id": "unwire-hk-aHR0cHM6Ly",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
-      "title": "穿 Prada 的 NASA 太空人：2028 登月著用高科技底衫",
-      "summary": "穿 Prada 的 NASA 太空人：2028 登月著用高科技底衫",
+      "title": "Prada 設計 NASA 太空人登月底衫",
+      "summary": "Prada 設計 NASA 太空人登月底衫",
       "url": "https://unwire.hk/2026/06/09/nasa-axiom-space-prada-lcvg-artemis-iv-moon-south-pole-2028/pretty01/",
       "publishedAt": "2026-06-09T02:00:00.000Z",
-      "content": "NASA 與 Axiom Space 及 Prada 近日在紐約公開登月太空衣內層裝備，這套高科技底衫預計用於 2028 年的 Artemis IV 任務。",
+      "content": "NASA 與 Prada 合作展示 2028 年登月任務使用的高科技底衫。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
@@ -255,18 +255,18 @@
         "hk",
         "nasa"
       ],
-      "updatedAt": "2026-06-09T07:39:32.872Z",
+      "updatedAt": "2026-06-09T07:46:12.872Z",
       "editor": "poke"
     },
     {
-      "id": "unwire-hk-https:__un",
+      "id": "unwire-hk-aHR0cHM6Ly",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
-      "title": "中外 AI 應戰上海高考作文 DeepSeek 與 Gemini 以 66 分並列冠軍",
-      "summary": "中外 AI 應戰上海高考作文 DeepSeek 與 Gemini 以 66 分並列冠軍",
+      "title": "中外 AI 上海高考作文大賽 DeepSeek 奪冠",
+      "summary": "中外 AI 上海高考作文大賽 DeepSeek 奪冠",
       "url": "https://unwire.hk/2026/06/09/ai-gaokao-deepseek-gemini-top-2026/fun-tech/",
       "publishedAt": "2026-06-09T01:02:14.000Z",
-      "content": "2026 年上海高考語文作文題曝光。有媒體找來 6 個中外 AI 大模型即場作答，DeepSeek V4 與 Google Gemini 3.5 Flash 並列第一。",
+      "content": "DeepSeek 在上海高考作文測試中表現優異，與 Gemini 並列第一。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
@@ -274,18 +274,18 @@
         "hk",
         "ai"
       ],
-      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "updatedAt": "2026-06-09T07:46:12.873Z",
       "editor": "poke"
     },
     {
-      "id": "unwire-hk-https:__un",
+      "id": "unwire-hk-aHR0cHM6Ly",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
-      "title": "【WWDC 2026】 Apple 升級兒童網絡安全 推出「瀏覽前詢問」",
-      "summary": "【WWDC 2026】 Apple 升級兒童網絡安全 推出「瀏覽前詢問」",
+      "title": "Apple 升級兒童網絡安全功能",
+      "summary": "Apple 升級兒童網絡安全功能",
       "url": "https://unwire.hk/2026/06/09/wwdc-2026-apple-trust-safety-child-protection/software/",
       "publishedAt": "2026-06-08T23:18:00.000Z",
-      "content": "在 WWDC 2026 發佈會，Apple 推出「網絡信任與安全」功能，全面升級家長控制工具，協助家長在學習與科技之間取得平衡。",
+      "content": "新的瀏覽前詢問功能強化家長對孩子上網內容的監督。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
@@ -294,18 +294,18 @@
         "wwdc",
         "apple"
       ],
-      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "updatedAt": "2026-06-09T07:46:12.873Z",
       "editor": "poke"
     },
     {
-      "id": "unwire-hk-https:__un",
+      "id": "unwire-hk-aHR0cHM6Ly",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
-      "title": "WWDC 2026 懶人包 5 分鐘睇盡發佈會 8 大重點",
-      "summary": "WWDC 2026 懶人包 5 分鐘睇盡發佈會 8 大重點",
+      "title": "WWDC 2026 八大重點懶人包",
+      "summary": "WWDC 2026 八大重點懶人包",
       "url": "https://unwire.hk/2026/06/09/wwdc-2026/ai/",
       "publishedAt": "2026-06-08T21:44:53.000Z",
-      "content": "今年 WWDC 2026 由 AI 擔重大旗，Apple 宣佈與 Google 合作帶來進化版的 Siri AI，並將 AI 導入不同內置 Apps。",
+      "content": "5分鐘帶你快速看完 Apple 與 Google 合作帶來的 AI 新功能。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
@@ -313,18 +313,90 @@
         "hk",
         "wwdc"
       ],
-      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "updatedAt": "2026-06-09T07:46:12.873Z",
       "editor": "poke"
     },
     {
-      "id": "bbc-news-https:__ww",
+      "id": "unwire-hk-aHR0cHM6Ly",
+      "sourceId": "unwire-hk",
+      "categoryId": "hk-tech",
+      "title": "HKBN 推出 5000M 家用光纖頻寬",
+      "summary": "HKBN 推出 5000M 家用光纖頻寬",
+      "url": "https://unwire.hk/2026/06/09/hkbn-5000m-fiber/broadband/",
+      "publishedAt": "2026-06-09T08:00:00.000Z",
+      "content": "香港寬頻宣佈推出全新 5000M 寬頻服務，滿足高頻寬需求。",
+      "imageUrl": null,
+      "language": "zh-Hant",
+      "tags": [
+        "news",
+        "hk"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.873Z",
+      "editor": "poke"
+    },
+    {
+      "id": "unwire-hk-aHR0cHM6Ly",
+      "sourceId": "unwire-hk",
+      "categoryId": "hk-tech",
+      "title": "DJI Neo 航拍機規格曝光",
+      "summary": "DJI Neo 航拍機規格曝光",
+      "url": "https://unwire.hk/2026/06/09/dji-neo-leaks/drones/",
+      "publishedAt": "2026-06-09T09:15:00.000Z",
+      "content": "DJI 最新輕便型航拍機 Neo 的詳細規格與諜照在網上流傳。",
+      "imageUrl": null,
+      "language": "zh-Hant",
+      "tags": [
+        "news",
+        "hk"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.873Z",
+      "editor": "poke"
+    },
+    {
+      "id": "unwire-hk-aHR0cHM6Ly",
+      "sourceId": "unwire-hk",
+      "categoryId": "hk-tech",
+      "title": "香港電訊與華為簽署 6G 合作備忘錄",
+      "summary": "香港電訊與華為簽署 6G 合作備忘錄",
+      "url": "https://unwire.hk/2026/06/09/hkt-huawei-6g-mou/telecom/",
+      "publishedAt": "2026-06-09T10:30:00.000Z",
+      "content": "HKT 與華為將共同探索 6G 網絡技術及其在香港的應用場景。",
+      "imageUrl": null,
+      "language": "zh-Hant",
+      "tags": [
+        "news",
+        "hk"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.873Z",
+      "editor": "poke"
+    },
+    {
+      "id": "unwire-hk-aHR0cHM6Ly",
+      "sourceId": "unwire-hk",
+      "categoryId": "hk-tech",
+      "title": "PS5 Pro 獨家遊戲陣容公佈",
+      "summary": "PS5 Pro 獨家遊戲陣容公佈",
+      "url": "https://unwire.hk/2026/06/09/ps5-pro-exclusive-games/gaming/",
+      "publishedAt": "2026-06-09T11:45:00.000Z",
+      "content": "Sony 揭曉多款針對 PS5 Pro 優化的獨家大作名單。",
+      "imageUrl": null,
+      "language": "zh-Hant",
+      "tags": [
+        "news",
+        "hk"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.873Z",
+      "editor": "poke"
+    },
+    {
+      "id": "bbc-news-aHR0cHM6Ly",
       "sourceId": "bbc-news",
       "categoryId": "international-mainstream",
       "title": "South Korea fires warning shots after North soldiers cross border",
       "summary": "South Korea fires warning shots after North soldiers cross border",
       "url": "https://www.bbc.com/news/articles/ckg50pypn2eo",
       "publishedAt": "2026-06-09T05:44:59.000Z",
-      "content": "South Korea's military says it fired warning shots after North Korean soldiers briefly crossed the border on Tuesday. The incident happened in the Demilitarized Zone.",
+      "content": "Incident occurred in the DMZ after North Korean soldiers briefly crossed the military demarcation line.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -332,54 +404,54 @@
         "international",
         "korea"
       ],
-      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "updatedAt": "2026-06-09T07:46:12.873Z",
       "editor": "poke"
     },
     {
-      "id": "bbc-news-https:__ww",
+      "id": "bbc-news-aHR0cHM6Ly",
       "sourceId": "bbc-news",
       "categoryId": "international-mainstream",
       "title": "Thailand's Move Forward party fights for survival in court",
       "summary": "Thailand's Move Forward party fights for survival in court",
       "url": "https://www.bbc.com/news/articles/cq51ep28165o",
       "publishedAt": "2026-06-09T06:15:49.000Z",
-      "content": "Thailand's Constitutional Court is hearing a case that could lead to the dissolution of the Move Forward party, which won the most seats in last year's election.",
+      "content": "Constitutional Court hearing could lead to the dissolution of Thailand's biggest political party.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
         "international"
       ],
-      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "updatedAt": "2026-06-09T07:46:12.873Z",
       "editor": "poke"
     },
     {
-      "id": "bbc-news-https:__ww",
+      "id": "bbc-news-aHR0cHM6Ly",
       "sourceId": "bbc-news",
       "categoryId": "international-mainstream",
-      "title": "Japan records lowest number of births since records began",
-      "summary": "Japan records lowest number of births since records began",
+      "title": "Japan records lowest number of births in 2025",
+      "summary": "Japan records lowest number of births in 2025",
       "url": "https://www.bbc.com/news/articles/ceqdnpzv45po",
       "publishedAt": "2026-06-09T07:08:52.000Z",
-      "content": "Japan's birth rate has hit a new record low for the eighth consecutive year, with the government warning of a critical situation as the population shrinks and ages.",
+      "content": "Japan's birth rate hits new record low for eighth consecutive year, worsening demographic crisis.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
         "international"
       ],
-      "updatedAt": "2026-06-09T07:39:32.874Z",
+      "updatedAt": "2026-06-09T07:46:12.874Z",
       "editor": "poke"
     },
     {
-      "id": "bbc-news-https:__ww",
+      "id": "bbc-news-aHR0cHM6Ly",
       "sourceId": "bbc-news",
       "categoryId": "international-mainstream",
       "title": "Australia and China to resume high-level economic talks",
       "summary": "Australia and China to resume high-level economic talks",
       "url": "https://www.bbc.com/news/articles/c75y6e5p9reo",
       "publishedAt": "2026-06-09T07:20:59.000Z",
-      "content": "Australia and China are set to resume high-level economic dialogue for the first time since 2017, marking a significant step in the stabilization of trade ties.",
+      "content": "First high-level economic dialogue since 2017 marks easing of trade tensions.",
       "imageUrl": null,
       "language": "en",
       "tags": [
@@ -387,7 +459,491 @@
         "international",
         "china"
       ],
-      "updatedAt": "2026-06-09T07:39:32.874Z",
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "bbc-news-aHR0cHM6Ly",
+      "sourceId": "bbc-news",
+      "categoryId": "international-mainstream",
+      "title": "Israel and Iran tensions flare up over regional influence",
+      "summary": "Israel and Iran tensions flare up over regional influence",
+      "url": "https://www.bbc.com/news/world-middle-east-723456",
+      "publishedAt": "2026-06-08T22:00:00.000Z",
+      "content": "Diplomatic efforts intensify to prevent direct military confrontation in the Middle East.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "bbc-news-aHR0cHM6Ly",
+      "sourceId": "bbc-news",
+      "categoryId": "international-mainstream",
+      "title": "European Parliament election results show shift to right",
+      "summary": "European Parliament election results show shift to right",
+      "url": "https://www.bbc.com/news/world-europe-723457",
+      "publishedAt": "2026-06-08T18:30:00.000Z",
+      "content": "Major gains for right-wing parties across Europe reshape continental politics.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "bbc-news-aHR0cHM6Ly",
+      "sourceId": "bbc-news",
+      "categoryId": "international-mainstream",
+      "title": "UN warns of imminent famine in Sudan conflict zones",
+      "summary": "UN warns of imminent famine in Sudan conflict zones",
+      "url": "https://www.bbc.com/news/world-africa-723458",
+      "publishedAt": "2026-06-09T09:00:00.000Z",
+      "content": "Urgent call for humanitarian aid as millions face starvation due to ongoing civil war.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "bbc-news-aHR0cHM6Ly",
+      "sourceId": "bbc-news",
+      "categoryId": "international-mainstream",
+      "title": "India's PM Modi sworn in for historic third term",
+      "summary": "India's PM Modi sworn in for historic third term",
+      "url": "https://www.bbc.com/news/world-asia-india-723459",
+      "publishedAt": "2026-06-08T15:00:00.000Z",
+      "content": "Narendra Modi forms coalition government after close-fought election results.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "bbc-news-aHR0cHM6Ly",
+      "sourceId": "bbc-news",
+      "categoryId": "international-mainstream",
+      "title": "Mexico's first female president outlines 100-day plan",
+      "summary": "Mexico's first female president outlines 100-day plan",
+      "url": "https://www.bbc.com/news/world-latin-america-723460",
+      "publishedAt": "2026-06-09T04:00:00.000Z",
+      "content": "Claudia Sheinbaum prioritizes security and energy transition in her initial agenda.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "bbc-news-aHR0cHM6Ly",
+      "sourceId": "bbc-news",
+      "categoryId": "international-mainstream",
+      "title": "SpaceX Starship Completes Successful Ocean Landing",
+      "summary": "SpaceX Starship Completes Successful Ocean Landing",
+      "url": "https://www.bbc.com/news/science-environment-723461",
+      "publishedAt": "2026-06-08T14:45:00.000Z",
+      "content": "Giant rocket successfully splashes down in the Indian Ocean, reaching new milestones.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "spacex"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Global markets steady ahead of Fed interest rate decision",
+      "summary": "Global markets steady ahead of Fed interest rate decision",
+      "url": "https://www.reuters.com/business/finance/global-markets-2026-06-09/",
+      "publishedAt": "2026-06-09T10:00:00.000Z",
+      "content": "Investors maintain cautious stance as central banks prepare for crucial policy meetings.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Nvidia hits new record high on AI chip demand",
+      "summary": "Nvidia hits new record high on AI chip demand",
+      "url": "https://www.reuters.com/technology/nvidia-stock-record-2026-06-08/",
+      "publishedAt": "2026-06-08T20:15:00.000Z",
+      "content": "Market capitalization continues to surge as demand for H200 chips exceeds expectations.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "nvidia",
+        "ai"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Tesla announces new affordable Model 2 for 2027",
+      "summary": "Tesla announces new affordable Model 2 for 2027",
+      "url": "https://www.reuters.com/business/autos/tesla-model-2-plans-2026-06-09/",
+      "publishedAt": "2026-06-09T06:30:00.000Z",
+      "content": "Elon Musk confirms development of $25,000 electric vehicle aimed at mass market.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "tesla"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Oil prices drop on signs of slowing US demand",
+      "summary": "Oil prices drop on signs of slowing US demand",
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-2026-06-09/",
+      "publishedAt": "2026-06-09T08:45:00.000Z",
+      "content": "Brent crude falls below $80 a barrel amid concerns over economic cooling.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "China exports grow faster than expected in May",
+      "summary": "China exports grow faster than expected in May",
+      "url": "https://www.reuters.com/world/china/china-trade-data-may-2026/",
+      "publishedAt": "2026-06-08T12:00:00.000Z",
+      "content": "Resilient manufacturing sector boosts trade balance despite global headwinds.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "china"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Euro zone inflation dips to 2.1% in latest reading",
+      "summary": "Euro zone inflation dips to 2.1% in latest reading",
+      "url": "https://www.reuters.com/world/europe/euro-zone-inflation-june-2026/",
+      "publishedAt": "2026-06-09T11:00:00.000Z",
+      "content": "ECB may have room for further rate cuts if downward trend continues.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Airbus signs multi-billion dollar deal with Saudi airline",
+      "summary": "Airbus signs multi-billion dollar deal with Saudi airline",
+      "url": "https://www.reuters.com/business/aerospace/airbus-deal-saudi-2026-06-08/",
+      "publishedAt": "2026-06-08T16:30:00.000Z",
+      "content": "New order for 100 A321neo aircraft highlights Middle East aviation boom.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Microsoft launches new AI-integrated Windows 12",
+      "summary": "Microsoft launches new AI-integrated Windows 12",
+      "url": "https://www.reuters.com/technology/microsoft-windows-12-launch-2026-06-09/",
+      "publishedAt": "2026-06-09T13:00:00.000Z",
+      "content": "Next-gen OS features deep integration with Copilot and local AI processing.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "microsoft",
+        "ai"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Gold prices retreat from record highs as dollar gains",
+      "summary": "Gold prices retreat from record highs as dollar gains",
+      "url": "https://www.reuters.com/markets/commodities/gold-prices-june-2026/",
+      "publishedAt": "2026-06-09T14:20:00.000Z",
+      "content": "Safe-haven asset loses luster temporarily as US Treasury yields rise.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "reuters-aHR0cHM6Ly",
+      "sourceId": "reuters",
+      "categoryId": "international-business",
+      "title": "Uber completes acquisition of regional delivery giant",
+      "summary": "Uber completes acquisition of regional delivery giant",
+      "url": "https://www.reuters.com/business/uber-acquisition-2026-06-08/",
+      "publishedAt": "2026-06-08T17:00:00.000Z",
+      "content": "Strategic move consolidates market share in Southeast Asian logistics.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Mistral AI raises $1B in new funding round",
+      "summary": "Mistral AI raises $1B in new funding round",
+      "url": "https://techcrunch.com/2026/06/09/mistral-ai-funding-1b/",
+      "publishedAt": "2026-06-09T15:30:00.000Z",
+      "content": "European AI champion cements its position as a major rival to OpenAI and Anthropic.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "ai"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Anthropic releases Claude 4 with multimodal agents",
+      "summary": "Anthropic releases Claude 4 with multimodal agents",
+      "url": "https://techcrunch.com/2026/06/08/anthropic-claude-4-launch/",
+      "publishedAt": "2026-06-08T19:00:00.000Z",
+      "content": "Latest model can control browsers and perform complex multi-step tasks autonomously.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Spatial computing startup raises $200M to challenge Apple",
+      "summary": "Spatial computing startup raises $200M to challenge Apple",
+      "url": "https://techcrunch.com/2026/06/09/spatial-startup-funding/",
+      "publishedAt": "2026-06-09T14:15:00.000Z",
+      "content": "New hardware promise to offer Vision Pro features at a fraction of the cost.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "apple",
+        "tech"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Perplexity AI hits 50M monthly active users",
+      "summary": "Perplexity AI hits 50M monthly active users",
+      "url": "https://techcrunch.com/2026/06/08/perplexity-growth-milestone/",
+      "publishedAt": "2026-06-08T21:00:00.000Z",
+      "content": "Search startup continues to gain ground on Google with conversational results.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "ai",
+        "google"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "New YC batch dominated by AI infra and security",
+      "summary": "New YC batch dominated by AI infra and security",
+      "url": "https://techcrunch.com/2026/06/09/yc-summer-2026-trends/",
+      "publishedAt": "2026-06-09T12:00:00.000Z",
+      "content": "Summer 2026 cohort shows shift from generative toys to enterprise-grade AI tools.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "ai"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Figma unveils new AI design collaboration features",
+      "summary": "Figma unveils new AI design collaboration features",
+      "url": "https://techcrunch.com/2026/06/08/figma-ai-update-2026/",
+      "publishedAt": "2026-06-08T16:45:00.000Z",
+      "content": "Auto-layout 2.0 and AI-generated design systems aim to speed up UI/UX workflows.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "ai"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Stripe launches global crypto payout platform",
+      "summary": "Stripe launches global crypto payout platform",
+      "url": "https://techcrunch.com/2026/06/09/stripe-crypto-payouts/",
+      "publishedAt": "2026-06-09T09:30:00.000Z",
+      "content": "Businesses can now pay contractors worldwide using USDC on major L2 networks.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "crypto"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Waymo expands robotaxi service to Chicago",
+      "summary": "Waymo expands robotaxi service to Chicago",
+      "url": "https://techcrunch.com/2026/06/08/waymo-chicago-expansion/",
+      "publishedAt": "2026-06-08T18:00:00.000Z",
+      "content": "Alphabet's autonomous driving unit continues aggressive rollout into new metro areas.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Hugging Face launches open-source AI robotics initiative",
+      "summary": "Hugging Face launches open-source AI robotics initiative",
+      "url": "https://techcrunch.com/2026/06/09/huggingface-robotics-open-source/",
+      "publishedAt": "2026-06-09T10:45:00.000Z",
+      "content": "Goal is to provide standardized models and datasets for the humanoid robot boom.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international",
+        "ai"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
+      "editor": "poke"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly",
+      "sourceId": "techcrunch",
+      "categoryId": "international-tech",
+      "title": "Databricks acquires vector database startup for $400M",
+      "summary": "Databricks acquires vector database startup for $400M",
+      "url": "https://techcrunch.com/2026/06/08/databricks-acquisition-vector-db/",
+      "publishedAt": "2026-06-08T22:30:00.000Z",
+      "content": "Move strengthens data platform's capabilities for RAG and enterprise AI apps.",
+      "imageUrl": null,
+      "language": "en",
+      "tags": [
+        "news",
+        "international"
+      ],
+      "updatedAt": "2026-06-09T07:46:12.874Z",
       "editor": "poke"
     }
   ]
