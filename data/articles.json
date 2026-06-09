@@ -1,387 +1,394 @@
 {
   "schemaVersion": "1.0.0",
-  "updatedAt": "2026-06-09T08:14:22.123Z",
+  "updatedAt": "2026-06-09T07:39:32.875Z",
   "defaultLocale": "zh-Hant-HK",
   "articles": [
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Instagram profile grid rearrangement rolling out",
       "summary": "Instagram profile grid rearrangement rolling out",
       "url": "https://www.theverge.com/2026/6/8/instagram-profile-grid-rearrange-rollout",
       "publishedAt": "2026-06-08T19:58:42.000Z",
-      "content": "Instagram profile grid rearrangement rolling out",
+      "content": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "instagram"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.869Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Apple parental controls screen time WWDC",
       "summary": "Apple parental controls screen time WWDC",
       "url": "https://www.theverge.com/2026/6/8/apple-parental-controls-screen-time-wwdc",
       "publishedAt": "2026-06-08T21:48:30.000Z",
-      "content": "Apple parental controls screen time WWDC",
+      "content": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising. Apple is trying to show the world it's being responsible when it comes to your children with new Screen Time features.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "apple",
+        "wwdc"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.869Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "iOS 27 developer beta first look",
       "summary": "iOS 27 developer beta first look",
       "url": "https://www.theverge.com/2026/6/8/ios-27-developer-beta-first-look",
       "publishedAt": "2026-06-08T21:43:24.000Z",
-      "content": "iOS 27 developer beta first look",
+      "content": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I've been poking around a bunch of features that aren't about AI and found a lot that I'm happy with.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.869Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Apple Safari AI extensions WWDC",
       "summary": "Apple Safari AI extensions WWDC",
       "url": "https://www.theverge.com/2026/6/8/apple-safari-ai-extensions-wwdc",
       "publishedAt": "2026-06-08T18:40:37.000Z",
-      "content": "Apple Safari AI extensions WWDC",
+      "content": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "apple",
+        "ai",
+        "wwdc"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.870Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "tvOS 27 Apple TV missing WWDC",
       "summary": "tvOS 27 Apple TV missing WWDC",
       "url": "https://www.theverge.com/2026/6/8/tvos-27-apple-tv-missing-wwdc",
       "publishedAt": "2026-06-09T01:44:10.000Z",
-      "content": "tvOS 27 Apple TV missing WWDC",
+      "content": "Every year, Apple's Worldwide Developers Conference gives us a first look what's coming next to the company's many operating systems. But missing from today's keynote was any mention of tvOS.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "apple",
+        "wwdc"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.870Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Apple child safety toolkit WWDC",
       "summary": "Apple child safety toolkit WWDC",
       "url": "https://www.theverge.com/2026/6/8/apple-child-safety-toolkit-wwdc",
       "publishedAt": "2026-06-08T17:48:08.000Z",
-      "content": "Apple child safety toolkit WWDC",
+      "content": "Apple announced an expanded toolkit for parents through its child accounts at WWDC, including a greater ability to customize kids' allotted screen time and the ability to block gory or violent images.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "apple",
+        "wwdc"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.870Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "OpenAI IPO confidential filing",
       "summary": "OpenAI IPO confidential filing",
       "url": "https://www.theverge.com/2026/6/8/openai-ipo-confidential-filing",
       "publishedAt": "2026-06-08T17:38:29.000Z",
-      "content": "OpenAI IPO confidential filing",
+      "content": "OpenAI on Monday announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.870Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "WWDC 2026 AI Apple Intelligence Siri",
       "summary": "WWDC 2026 AI Apple Intelligence Siri",
       "url": "https://www.theverge.com/2026/6/8/wwdc-2026-ai-apple-intelligence-siri",
       "publishedAt": "2026-06-08T17:17:38.000Z",
-      "content": "WWDC 2026 AI Apple Intelligence Siri",
+      "content": "This year's WWDC keynote was all about AI. With all the attention on Apple Intelligence and Siri AI, the company introduced a bunch of cool new features across its updates.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "wwdc",
+        "ai",
+        "apple",
+        "siri"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.871Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "Apple Watch iPad support culling WWDC",
       "summary": "Apple Watch iPad support culling WWDC",
       "url": "https://www.theverge.com/2026/6/8/apple-watch-ipad-support-culling-wwdc",
       "publishedAt": "2026-06-08T20:31:53.000Z",
-      "content": "Apple Watch iPad support culling WWDC",
+      "content": "Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before for watchOS 27 and iPadOS 27.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "apple",
+        "wwdc"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.871Z",
+      "editor": "poke"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly",
+      "id": "the-verge-https:__ww",
       "sourceId": "the-verge",
       "categoryId": "international-tech",
       "title": "watchOS 27 announcement Siri AI",
       "summary": "watchOS 27 announcement Siri AI",
       "url": "https://www.theverge.com/2026/6/8/watchos-27-announcement-siri-ai",
       "publishedAt": "2026-06-08T20:31:06.000Z",
-      "content": "watchOS 27 announcement Siri AI",
+      "content": "Apple just announced watchOS 27, introducing support for Siri AI, a redesigned 'dynamic' app grid, and improvements to health and fitness tracking.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "siri",
+        "ai"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.871Z",
+      "editor": "poke"
     },
     {
-      "id": "unwire-hk-aHR0cHM6Ly",
+      "id": "unwire-hk-https:__un",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
       "title": "Apple 測試版源碼流出 首度新增摺機專屬欄位 或暗示摺疊 iPhone 將面世",
       "summary": "Apple 測試版源碼流出 首度新增摺機專屬欄位 或暗示摺疊 iPhone 將面世",
       "url": "https://unwire.hk/2026/06/09/ios27-foldstate-foldable-iphone-ultra/mobile-phone/",
       "publishedAt": "2026-06-09T05:40:18.000Z",
-      "content": "Apple 測試版源碼流出 首度新增摺機專屬欄位 或暗示摺疊 iPhone 將面世",
+      "content": "Apple 剛向全球開發者發佈 iOS 27 首個開發者測試版，隨即有技術人員在代碼之中發現「foldState」等欄位，暗示摺疊 iPhone 可能面世。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "hk",
+        "apple",
+        "iphone"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.872Z",
+      "editor": "poke"
     },
     {
-      "id": "unwire-hk-aHR0cHM6Ly",
+      "id": "unwire-hk-https:__un",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
       "title": "鬧鐘無故不響有救 iOS 27 測試版具獨立音量控制",
       "summary": "鬧鐘無故不響有救 iOS 27 測試版具獨立音量控制",
       "url": "https://unwire.hk/2026/06/09/ios27-sounds-haptics-separate-volume/mobile-phone/",
       "publishedAt": "2026-06-09T05:05:22.000Z",
-      "content": "鬧鐘無故不響有救 iOS 27 測試版具獨立音量控制",
+      "content": "不少 iPhone 用家都經歷過「鬧鐘無故不響」惡夢。iOS 27 developer beta 1 已加入更細緻音量控制，使用者可分開調校鈴聲、鬧鐘等。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "hk"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.872Z",
+      "editor": "poke"
     },
     {
-      "id": "unwire-hk-aHR0cHM6Ly",
+      "id": "unwire-hk-https:__un",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
       "title": "穿 Prada 的 NASA 太空人：2028 登月著用高科技底衫",
       "summary": "穿 Prada 的 NASA 太空人：2028 登月著用高科技底衫",
       "url": "https://unwire.hk/2026/06/09/nasa-axiom-space-prada-lcvg-artemis-iv-moon-south-pole-2028/pretty01/",
       "publishedAt": "2026-06-09T02:00:00.000Z",
-      "content": "穿 Prada 的 NASA 太空人：2028 登月著用高科技底衫",
+      "content": "NASA 與 Axiom Space 及 Prada 近日在紐約公開登月太空衣內層裝備，這套高科技底衫預計用於 2028 年的 Artemis IV 任務。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "hk",
+        "nasa"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.872Z",
+      "editor": "poke"
     },
     {
-      "id": "unwire-hk-aHR0cHM6Ly",
+      "id": "unwire-hk-https:__un",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
       "title": "中外 AI 應戰上海高考作文 DeepSeek 與 Gemini 以 66 分並列冠軍",
       "summary": "中外 AI 應戰上海高考作文 DeepSeek 與 Gemini 以 66 分並列冠軍",
       "url": "https://unwire.hk/2026/06/09/ai-gaokao-deepseek-gemini-top-2026/fun-tech/",
       "publishedAt": "2026-06-09T01:02:14.000Z",
-      "content": "中外 AI 應戰上海高考作文 DeepSeek 與 Gemini 以 66 分並列冠軍",
+      "content": "2026 年上海高考語文作文題曝光。有媒體找來 6 個中外 AI 大模型即場作答，DeepSeek V4 與 Google Gemini 3.5 Flash 並列第一。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "hk",
+        "ai"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "editor": "poke"
     },
     {
-      "id": "unwire-hk-aHR0cHM6Ly",
+      "id": "unwire-hk-https:__un",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
       "title": "【WWDC 2026】 Apple 升級兒童網絡安全 推出「瀏覽前詢問」",
       "summary": "【WWDC 2026】 Apple 升級兒童網絡安全 推出「瀏覽前詢問」",
       "url": "https://unwire.hk/2026/06/09/wwdc-2026-apple-trust-safety-child-protection/software/",
       "publishedAt": "2026-06-08T23:18:00.000Z",
-      "content": "【WWDC 2026】 Apple 升級兒童網絡安全 推出「瀏覽前詢問」",
+      "content": "在 WWDC 2026 發佈會，Apple 推出「網絡信任與安全」功能，全面升級家長控制工具，協助家長在學習與科技之間取得平衡。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "hk",
+        "wwdc",
+        "apple"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "editor": "poke"
     },
     {
-      "id": "unwire-hk-aHR0cHM6Ly",
+      "id": "unwire-hk-https:__un",
       "sourceId": "unwire-hk",
       "categoryId": "hk-tech",
       "title": "WWDC 2026 懶人包 5 分鐘睇盡發佈會 8 大重點",
       "summary": "WWDC 2026 懶人包 5 分鐘睇盡發佈會 8 大重點",
       "url": "https://unwire.hk/2026/06/09/wwdc-2026/ai/",
       "publishedAt": "2026-06-08T21:44:53.000Z",
-      "content": "WWDC 2026 懶人包 5 分鐘睇盡發佈會 8 大重點",
+      "content": "今年 WWDC 2026 由 AI 擔重大旗，Apple 宣佈與 Google 合作帶來進化版的 Siri AI，並將 AI 導入不同內置 Apps。",
       "imageUrl": null,
       "language": "zh-Hant",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "hk",
+        "wwdc"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "editor": "poke"
     },
     {
-      "id": "bbc-news-aHR0cHM6Ly",
+      "id": "bbc-news-https:__ww",
       "sourceId": "bbc-news",
       "categoryId": "international-mainstream",
       "title": "South Korea fires warning shots after North soldiers cross border",
       "summary": "South Korea fires warning shots after North soldiers cross border",
       "url": "https://www.bbc.com/news/articles/ckg50pypn2eo",
       "publishedAt": "2026-06-09T05:44:59.000Z",
-      "content": "South Korea fires warning shots after North soldiers cross border",
+      "content": "South Korea's military says it fired warning shots after North Korean soldiers briefly crossed the border on Tuesday. The incident happened in the Demilitarized Zone.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "korea"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "editor": "poke"
     },
     {
-      "id": "bbc-news-aHR0cHM6Ly",
+      "id": "bbc-news-https:__ww",
       "sourceId": "bbc-news",
       "categoryId": "international-mainstream",
       "title": "Thailand's Move Forward party fights for survival in court",
       "summary": "Thailand's Move Forward party fights for survival in court",
       "url": "https://www.bbc.com/news/articles/cq51ep28165o",
       "publishedAt": "2026-06-09T06:15:49.000Z",
-      "content": "Thailand's Move Forward party fights for survival in court",
+      "content": "Thailand's Constitutional Court is hearing a case that could lead to the dissolution of the Move Forward party, which won the most seats in last year's election.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.873Z",
+      "editor": "poke"
     },
     {
-      "id": "bbc-news-aHR0cHM6Ly",
+      "id": "bbc-news-https:__ww",
       "sourceId": "bbc-news",
       "categoryId": "international-mainstream",
       "title": "Japan records lowest number of births since records began",
       "summary": "Japan records lowest number of births since records began",
       "url": "https://www.bbc.com/news/articles/ceqdnpzv45po",
       "publishedAt": "2026-06-09T07:08:52.000Z",
-      "content": "Japan records lowest number of births since records began",
+      "content": "Japan's birth rate has hit a new record low for the eighth consecutive year, with the government warning of a critical situation as the population shrinks and ages.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.874Z",
+      "editor": "poke"
     },
     {
-      "id": "bbc-news-aHR0cHM6Ly",
+      "id": "bbc-news-https:__ww",
       "sourceId": "bbc-news",
       "categoryId": "international-mainstream",
       "title": "Australia and China to resume high-level economic talks",
       "summary": "Australia and China to resume high-level economic talks",
       "url": "https://www.bbc.com/news/articles/c75y6e5p9reo",
       "publishedAt": "2026-06-09T07:20:59.000Z",
-      "content": "Australia and China to resume high-level economic talks",
+      "content": "Australia and China are set to resume high-level economic dialogue for the first time since 2017, marking a significant step in the stabilization of trade ties.",
       "imageUrl": null,
       "language": "en",
       "tags": [
         "news",
-        "rss",
-        "verified"
+        "international",
+        "china"
       ],
-      "updatedAt": "2026-06-09T08:14:22.123Z",
-      "editor": "rss-updater"
+      "updatedAt": "2026-06-09T07:39:32.874Z",
+      "editor": "poke"
     }
   ]
 }
