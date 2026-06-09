@@ -1,8 +1,23 @@
 {
   "schemaVersion": "1.0.0",
-  "updatedAt": "2026-06-09T12:58:00+08:00",
+  "updatedAt": "2026-06-09T15:25:00+08:00",
   "defaultLocale": "zh-Hant-HK",
   "articles": [
+    {
+      "id": "the-chaser-news-2026-06-08-arctic",
+      "sourceId": "the-chaser-news",
+      "categoryId": "hk-overseas",
+      "title": "追新聞：中共「一帶一路」殺入西歐，習近平推出「冰上絲綢之路」北極延伸版",
+      "summary": "在美國總統特朗普宣布向芬蘭購入破冰船以遏制中俄北極野心之際，中國國家主席習近平推出「一帶一路」北極延伸版的「冰上絲綢之路」。",
+      "content": "根據《追新聞》報導，中共的「一帶一路」戰略正向西歐延伸。美國總統特朗普日前宣布向芬蘭購入世界最好的破冰船，以應對中俄在港在北極的擴張。與此同時，中國國家主席習近平推出了「冰上絲綢之路」，作為「一帶一路」的北極延伸版。這反映出北極已成為中美博弈的新戰場，中歐北極快航的通航也標誌著地緣政治格局的轉變。",
+      "url": "https://thechasernews.co.uk/",
+      "imageUrl": null,
+      "language": "zh-Hant",
+      "tags": ["地緣政治", "一帶一路", "北極", "中美關係"],
+      "publishedAt": "2026-06-08T22:30:00+08:00",
+      "updatedAt": "2026-06-09T15:25:00+08:00",
+      "editor": "poke-automation"
+    },
     {
       "id": "the-collective-hk-2026-06-09-hk-press-freedom",
       "sourceId": "the-collective-hk",
